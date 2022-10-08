@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+*.log
+data/
+.DS_Store
+.vscode/
